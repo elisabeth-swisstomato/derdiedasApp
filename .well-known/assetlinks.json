@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.derdiedas.app",
-        "sha256_cert_fingerprints": ["E0:8D:F0:6A:3A:45:A3:D7:7B:BA:CD:A2:53:10:53:6C:CF:93:7C:FF:21:E6:2D:64:C1:C2:26:01:B3:AF:A5:02"]
+        "package_name": "com.swisstomato.derdiedas",
+        "sha256_cert_fingerprints": ["3B:76:C4:95:2A:A8:FF:4B:3B:9C:E9:0F:68:98:FA:57:37:DA:E0:C2:7D:9A:BA:2C:3D:68:C8:1C:67:9B:54:34"]
       }
     }]
